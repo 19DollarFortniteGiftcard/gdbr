@@ -1,4 +1,4 @@
-# ruffle-selfhosted
+# Godzilla Daikaiju Battle Royale
 
 ruffle-selfhosted is the intended way to get Ruffle onto your website.
 
